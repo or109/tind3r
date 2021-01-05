@@ -47,7 +47,7 @@
     "@blueprintjs/core": "^3.13.0",
     "assets-webpack-plugin": "^3.5.1",
     "autobind-decorator": "^1.3.4",
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "babel-core": "^6.24.1",
     "babel-eslint": "^7.2.3",
     "babel-loader": "^6.2.10",
